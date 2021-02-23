@@ -22,10 +22,10 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/leandronunesdev/curriculo-typescript>
+$ git clone <https://github.com/leandronunesdev/food-shop>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd curriculo-typescript
+$ cd food-shop
 
 # Instale as dependências
 $ npm install 
